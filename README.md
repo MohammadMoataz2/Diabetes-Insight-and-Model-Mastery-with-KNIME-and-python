@@ -1,10 +1,10 @@
-# Diabetes Insight and Model Mastery with KNIME
+# Diabetes Insight and Model Mastery with KNIME And Python
 
 ## Project Overview
-This project focuses on analyzing diabetes-related data and building predictive models using KNIME. The main objectives of the project include:
+This project focuses on analyzing diabetes-related data and building predictive models using KNIME and Python. The main objectives of the project include:
 ![workflow2](https://github.com/MohammadMoataz2/DiabetesPlatform/assets/123085286/3bf18ec8-981d-427e-a722-786c44b8d779)
 
-1. **Data Analysis:** Explore the relationships between diabetes and various health indicators such as age, blood pressure, BMI, glucose levels, etc. Analyze the dataset to uncover insights into the factors influencing diabetes outcomes.
+1. **Data Analysis:** Explore the relationships between diabetes and various health indicators such as age, blood pressure, BMI, glucose levels, etc. Analyze the dataset to uncover insights into the factors influencing diabetes outcomes using knime and python.
 **..............................................................................................................................................................**
 ![image](https://github.com/MohammadMoataz2/DiabetesPlatform/assets/123085286/d7c4ef0b-1ef0-4ec8-862f-a75f491a77d7)
 ![image](https://github.com/MohammadMoataz2/DiabetesPlatform/assets/123085286/3f4b172e-b3c9-47aa-b480-efc42e38c184)
