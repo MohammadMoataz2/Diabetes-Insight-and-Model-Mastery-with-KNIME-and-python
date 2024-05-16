@@ -2,8 +2,8 @@
 
 ## Project Overview
 This project focuses on analyzing diabetes-related data and building predictive models using KNIME. The main objectives of the project include:
-![workflow](https://github.com/MohammadMoataz2/DiabetesPlatform/assets/123085286/97e399a7-db26-4167-a697-5e95b4989c64)
-**..............................................................................................................................................................**
+![workflow2](https://github.com/MohammadMoataz2/DiabetesPlatform/assets/123085286/3bf18ec8-981d-427e-a722-786c44b8d779)
+
 1. **Data Analysis:** Explore the relationships between diabetes and various health indicators such as age, blood pressure, BMI, glucose levels, etc. Analyze the dataset to uncover insights into the factors influencing diabetes outcomes.
 **..............................................................................................................................................................**
 ![image](https://github.com/MohammadMoataz2/DiabetesPlatform/assets/123085286/d7c4ef0b-1ef0-4ec8-862f-a75f491a77d7)
